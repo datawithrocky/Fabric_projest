@@ -1,0 +1,21 @@
+PaymentMethodID,MethodName,Provider,IsDigitalWallet
+1,Credit Card,Visa,FALSE
+2,Credit Card,Mastercard,FALSE
+3,Credit Card,American Express,FALSE
+4,Debit Card,Visa,FALSE
+5,Debit Card,Mastercard,FALSE
+6,PayPal,PayPal,TRUE
+7,Apple Pay,Apple,TRUE
+8,Google Pay,Google,TRUE
+9,Amazon Pay,Amazon,TRUE
+10,Venmo,Venmo,TRUE
+11,Shop Pay,Shopify,TRUE
+12,Afterpay,Afterpay,FALSE
+13,Klarna,Klarna,FALSE
+14,Bank Transfer,,FALSE
+15,Cash on Delivery,,FALSE
+16,Cryptocurrency,Coinbase,TRUE
+17,Alipay,Alipay,TRUE
+18,WeChat Pay,WeChat,TRUE
+19,Gift Card,,FALSE
+20,Loyalty Points,,FALSE
